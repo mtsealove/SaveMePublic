@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">구하자</string>
+    <string name="search">검색</string>
+    <string name="search_member">회원정보 검색</string>
+
+    <string-array name="parameter">
+        <item>이름</item>
+        <item>전화번호</item>
+        <item>집주소</item>
+        <item>지인전화번호</item>
+        <item>특이사항</item>
+    </string-array>
+</resources>
